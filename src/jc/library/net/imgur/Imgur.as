@@ -21,7 +21,7 @@ package jc.library.net.imgur {
 	/**
 	 * My AS3 implementation of the imgur-api
 	 *
-	 * @author  Julien Castelain	<jcastelain@gmail.com>
+	 * @author  Julien Castelain
 	 * @see     http://code.google.com/p/imgur-api
 	 * @version 0.1
 	 *
